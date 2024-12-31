@@ -41,7 +41,7 @@ Modal Window
 
 ![image](https://github.com/user-attachments/assets/fcc0e6ff-59c9-493e-8a26-2f2ea4bfe8b9)
 
-### 📝 Author
+### 📝 Profile
 • Name - Zaur Kharati
 
 • Github - https://github.com/ZukaKharati/Project-2-Modal-Window
